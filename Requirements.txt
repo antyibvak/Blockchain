@@ -1,0 +1,8 @@
+Required Python Libraries
+
+pytest
+Flask
+pubnub
+requests
+cryptography
+Flask-Cors
